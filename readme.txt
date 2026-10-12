@@ -1,0 +1,1 @@
+This is Git For team session
